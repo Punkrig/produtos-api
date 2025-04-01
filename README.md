@@ -205,19 +205,6 @@ Na primeira execução, um usuário administrador padrão é criado:
 
 > **IMPORTANTE**: Em ambiente de produção, altere estas credenciais ou desabilite a criação automática deste usuário.
 
-## Considerações para Ambiente de Produção
-
-Para um ambiente de produção, considere implementar:
-
-- Testes unitários e de integração
-- Configuração de CORS apropriada
-- Documentação da API com Swagger/OpenAPI
-- Refresh tokens
-- Mecanismo de recuperação de senha
-- Logging adequado
-- Monitoramento
-- Containerização com Docker
-- CI/CD pipeline
 
 ## Licença
 
