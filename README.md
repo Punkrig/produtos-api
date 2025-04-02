@@ -195,8 +195,6 @@ Na primeira execução, um usuário administrador padrão é criado:
 - Username: `admin`
 - Senha: `admin123`
 
-> **IMPORTANTE**: Em ambiente de produção, altere estas credenciais ou desabilite a criação automática deste usuário.
-
 
 ## Licença
 
