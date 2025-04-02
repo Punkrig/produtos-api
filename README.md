@@ -85,14 +85,6 @@ spring.datasource.username=seu_usuario
 spring.datasource.password=sua_senha
 ```
 
-### Executando a Aplicação
-1. Clone o repositório
-2. Navegue até a pasta do projeto
-3. Execute:
-```bash
-mvn spring-boot:run
-```
-
 A aplicação estará disponível em `http://localhost:8080`
 
 ## Endpoints da API
